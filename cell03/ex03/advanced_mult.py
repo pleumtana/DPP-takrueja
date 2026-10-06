@@ -2,7 +2,6 @@
 x=0
 while x <= 10:   
     print("Table de",x,":",end=" ")
-    
     i=0
     while i <=10:
         print(i*x,end=" ")
